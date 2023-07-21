@@ -1,0 +1,32 @@
+{
+  "vacancy": [
+    {
+      "link": "https://spb.hh.ru/vacancy/83617001?from=vacancy_search_list&query=python",
+      "title": "Python Developer",
+      "salary": "120 000 – 160 000 ₽",
+      "name": "ООО Телеформ ИС",
+      "address": "Москва"
+    },
+    {
+      "link": "https://spb.hh.ru/vacancy/83589408?from=vacancy_search_list&query=python",
+      "title": "Программист Python",
+      "salary": "от 400 000 ₽",
+      "name": "ИП Пермякова Марина Сергеевна ​​",
+      "address": "Москва"
+    },
+    {
+      "link": "https://spb.hh.ru/vacancy/83458412?from=vacancy_search_list&query=python",
+      "title": "Backend Python Developer (Django)",
+      "salary": "от 160 000 ₽",
+      "name": "ООО Протектор",
+      "address": "Москва"
+    },
+    {
+      "link": "https://spb.hh.ru/vacancy/82995371?from=vacancy_search_list&query=python",
+      "title": "Python-разработчик",
+      "salary": "120 000 – 180 000 ₽",
+      "name": "Digital Reputation",
+      "address": "Москва"
+    }
+  ]
+}
